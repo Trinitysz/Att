@@ -2,8 +2,8 @@
 <root>
 	<update>
 		<version>1.1</version>
-		<file>@CF.zip</file>		
-		<html>http://149.202.54.61:80/dayz/@CF.zip</html>		
+		<file>ExpasionDayz.zip</file>		
+		<html>http://149.202.54.61:80/dayz/ExpasionDayz.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
