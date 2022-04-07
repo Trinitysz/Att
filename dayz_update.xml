@@ -7,5 +7,13 @@
 		<command>false</command>
 		<execute>false</execute>
 	</update>
+
+	<update>
+		<version>1.2</version>
+		<file>Update.zip</file>		
+		<html>http://149.202.54.61:80/dayz/Update.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
 	
 </root>
